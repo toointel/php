@@ -1,0 +1,13 @@
+PHP Web Services: APIs for the Modern Web 2nd edition 2016
+Modern PHP - New Features and Good Practices 2015 (4.5/5)
+Learning PHP, MySQL & JavaScript - With jQuery, CSS & HTML5 4th edtion 2015 (4/13)
+Learn PHP 7: Object Oriented Modular Programming using HTML5, CSS3, JavaScript, XML, JSON, and MySQL 2015 (3/4)
+Make an E-commerce Site in a Weekend: Using PHP 2015
+Learning PHP, MySQL, JavaScript, CSS & HTML5 3rd edition 2014 (4/35)
+PhpStorm Cookbook 2014
+PHP Objects, Patterns, and Practice 4th edition 2013 (4.5/12)
+PHP Cookbook - Solutions & Examples for PHP Programmers 3rd edition 2014 (4.5/14)Programming PHP 3rd edition 2013 (4/25)
+PHP and MySQL for Dynamic Web Sites 4th edition 2012 (4.5/138)
+PHP for the Web 4th edition 2011 (4.5/42)
+PHP and MySQL Web Development 4th edition 2009 (4.5/142)
+Head First PHP & MySQL 2009 (4/90)

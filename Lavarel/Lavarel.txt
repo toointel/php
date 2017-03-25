@@ -1,0 +1,6 @@
+Learning Laravel's Eloquent 2015 (4.7/6)
+Mastering Laravel 2015 (3.9/7)
+Laravel 5 Essentials 2015 (3/6)
+Laravel 4 Cookbook 2014
+Laravel Application Development Cookbook 2013 (3.9/9)
+Learning Laravel 4 Application Development 2013 (3.0/14)
